@@ -29,7 +29,7 @@ The image below shows the Training Loss and Accuracy obtained plotted against th
 ##### GUI Home Screen
 ![Home Page](images/home.png)
 
-##### Uploaded test images output
+##### Uploaded Images Output
 ![Image Upload](images/op_img.png)
 
 ##### Live Video Stream Output
